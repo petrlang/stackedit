@@ -56,5 +56,5 @@ var THEME_LIST = {
     "": "Default",
     "blue-gray": "Blue-Gray",
     "night": "Night",
-    "B-theme": "Bootstrap"
+    "b-theme": "Bootstrap"
 };
