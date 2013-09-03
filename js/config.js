@@ -55,5 +55,6 @@ if(location.hostname.indexOf("benweet.github.io") === 0) {
 var THEME_LIST = {
     "": "Default",
     "blue-gray": "Blue-Gray",
-    "night": "Night"
+    "night": "Night",
+    "B-theme": "Bootstrap"
 };
